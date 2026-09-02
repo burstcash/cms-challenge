@@ -2,7 +2,7 @@
 
 A take-home for the Technical Support Engineer role at Glide.
 
-Budget about four hours, and take up to a week. There is more here than four hours holds. Choosing what to build and what to skip is part of the exercise, so if you run out of time, write down what you left and why.
+Expect about four hours. The deadline is one week from the day we send this. If you make a scope call along the way, write it down.
 
 Use whatever AI coding agents you normally use. Claude Code, Codex, Cursor, all fine. Keep your session logs and send them with your submission.
 
@@ -50,7 +50,7 @@ Required:
 3. **Concurrent edits do not silently clobber.** Two editors on one item must not overwrite each other without anyone noticing.
 4. **Scheduled publishing.** An editor can schedule an item to go live later. The schedule survives a process restart.
 
-Optional, only with time left over: version history with rollback, a draft-versus-live diff, a draft preview.
+Optional: version history with rollback, a draft-versus-live diff, a draft preview.
 
 The UI needs a list showing which items have unpublished changes, an editor for one item, publish and schedule controls, and some indication that a scheduled publish is pending.
 
