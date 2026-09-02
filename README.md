@@ -2,7 +2,7 @@
 
 A take-home for the Technical Support Engineer role at Glide.
 
-Budget about eight hours, and take up to a week. There is more here than eight hours holds. Choosing what to build and what to skip is part of the exercise, so if you run out of time, write down what you left and why.
+Budget about four hours, and take up to a week. There is more here than four hours holds. Choosing what to build and what to skip is part of the exercise, so if you run out of time, write down what you left and why.
 
 Use whatever AI coding agents you normally use. Claude Code, Codex, Cursor, all fine. Keep your session logs and send them with your submission.
 
