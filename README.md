@@ -76,7 +76,7 @@ Two notes. The starter schema models no draft, no live version, no publishing an
 
 ## What to send
 
-1. Your copy of this repo, with commit history. Please do not squash it into one commit.
+1. Your copy of this repo, with commit history. Please do not squash it into one commit. Keep it private, and add `coreyloftus` and `JoeWithGlide` as read collaborators so we can open it.
 2. A pull request against your own `main`, using the PR template in `.github/`.
 3. Evidence that it works, in the PR or the README. Command output, request and response pairs, test output, screenshots, or a recording. Cover the cases above, not the happy path.
 4. `DECISIONS.md`, filled in. The stub explains what goes in it.
