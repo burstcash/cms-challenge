@@ -26,7 +26,7 @@ The background worker is a separate process:
 npm run worker
 ```
 
-If setup fails, tell us. That is our bug.
+If setup fails, tell us. That is our bug. Email vishnu@withglide.com.
 
 | Command | Does |
 | --- | --- |
@@ -76,11 +76,22 @@ Two notes. The starter schema models no draft, no live version, no publishing an
 
 ## What to send
 
-1. Your copy of this repo, with commit history. Please do not squash it into one commit. Keep it private, and add `coreyloftus` and `JoeWithGlide` as read collaborators so we can open it.
+1. Your copy of this repo, with commit history. Please do not squash it into one commit. Keep it private, and add all three of us as read collaborators so we can open it:
+
+   | GitHub | Email |
+   | --- | --- |
+   | `vishnuchakr` | vishnu@withglide.com |
+   | `coreyloftus` | corey@withglide.com |
+   | `JoeWithGlide` | joseph@withglide.com |
+
+   If a GitHub handle does not resolve, invite the email address instead, or just email us a link.
+
 2. A pull request against your own `main`, using the PR template in `.github/`.
 3. Evidence that it works, in the PR or the README. Command output, request and response pairs, test output, screenshots, or a recording. Cover the cases above, not the happy path.
 4. `DECISIONS.md`, filled in. The stub explains what goes in it.
 5. Your agent session logs.
+
+Send the submission to vishnu@withglide.com, copying corey@withglide.com and joseph@withglide.com.
 
 ## How we read it
 
@@ -90,7 +101,7 @@ Small and well-evidenced beats large and clever. Scope decisions count for as mu
 
 There is no hidden test suite. We read the submission ourselves, and part of what we are reading for is judgment rather than output.
 
-If something here is underspecified, ask. Questions during the week are welcome and are not held against you.
+If something here is underspecified, ask. Questions during the week are welcome and are not held against you. vishnu@withglide.com.
 
 ## The next round
 
