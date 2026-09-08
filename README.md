@@ -4,7 +4,7 @@ A take-home for the Technical Support Engineer role at Glide.
 
 Expect about four hours. The deadline is one week from the day we send this. If you make a scope call along the way, write it down.
 
-Use whatever AI coding agents you normally use. Claude Code, Codex, Cursor, all fine. Keep your session logs and send them with your submission.
+Use whatever AI coding agents you normally use. Claude Code, Codex, Cursor, all fine. Keep your session logs and commit them in `transcripts/`.
 
 ## Setup
 
@@ -76,7 +76,7 @@ Two notes. The starter schema models no draft, no live version, no publishing an
 
 ## What to send
 
-1. Your copy of this repo, with commit history. Please do not squash it into one commit. Keep it private, and add all three of us as read collaborators so we can open it:
+1. Your copy of this repo, with commit history. Please do not squash it into one commit. Keep it private, and add all three of us as write collaborators:
 
    | GitHub | Email |
    | --- | --- |
@@ -84,12 +84,14 @@ Two notes. The starter schema models no draft, no live version, no publishing an
    | `coreyloftus` | corey@withglide.com |
    | `JoeWithGlide` | joseph@withglide.com |
 
+   Write rather than read because before the in-person round we push a branch of injected bugs to your copy, which is what you will be debugging.
+
    If a GitHub handle does not resolve, invite the email address instead, or just email us a link.
 
 2. A pull request against your own `main`, using the PR template in `.github/`.
 3. Evidence that it works, in the PR or the README. Command output, request and response pairs, test output, screenshots, or a recording. Cover the cases above, not the happy path.
 4. `DECISIONS.md`, filled in. The stub explains what goes in it.
-5. Your agent session logs.
+5. Your agent session logs, committed in `transcripts/`. The README in that folder explains the formats.
 
 Send the submission to vishnu@withglide.com, copying corey@withglide.com and joseph@withglide.com.
 
