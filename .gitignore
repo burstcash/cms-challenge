@@ -15,3 +15,6 @@ data/
 
 .DS_Store
 *.log
+
+# Local agent and editor config
+.claude/
