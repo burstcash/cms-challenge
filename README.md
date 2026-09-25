@@ -2,9 +2,20 @@
 
 A take-home for the Technical Support Engineer role at Glide.
 
-Expect about four hours. The deadline is one week from the day we send this. If you make a scope call along the way, write it down.
+Expect about four hours. The deadline is one week from your invitation email. If you make a scope call along the way, write it down.
 
 Use whatever AI coding agents you normally use. Claude Code, Codex, Cursor, all fine. Keep your session logs and commit them in `transcripts/`.
+
+## Create your private copy
+
+This starter is public; no GitHub access invitation is needed.
+
+1. On this repository, choose **Use this template → Create a new repository**.
+2. Select your own account as owner and choose **Private**.
+3. Clone your new repository. Keep its `main` branch as the starter baseline, then create a working branch for the exercise.
+4. Open your submission pull request from that working branch against your own `main`.
+
+Do not fork this repository: forks of public repositories are public. Keep your implementation, pull request, evidence, and agent logs in your private copy. Submit the links by email as described below; do not open your submission PR against this starter.
 
 ## Setup
 
